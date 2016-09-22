@@ -1,0 +1,43 @@
+header {
+	background-color: #F94C4C;
+	padding: auto;
+}
+
+nav {
+	margin-bottom: auto !important;
+	margin-left: 4%;
+	margin-right: 4%;
+}
+
+.portada {
+	background-image: url(../img/creamy.jpg);
+	background-size: cover;
+	background-position: center;
+	color:white;
+	padding: 15%;	
+}
+
+.foto {
+	padding: 5%;
+	width: 100%;
+	background-color: #F4F0BB;
+}
+
+.rojo {
+	background-color: #DA2C38;
+	color: #F4F0BB;
+	padding: 5%;
+}
+
+.tres {
+	background-color: #F4F0BB;
+	padding: 5%;
+	color: #DA2C38;
+	text-align: center;
+}
+
+.final {
+	background-color: #DA2C38;
+	color: #F4F0BB;
+	padding: 2%;
+}
